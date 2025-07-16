@@ -1,6 +1,6 @@
 # Habitable Zone Visualizer
 
-A clean, scientifically accurate Python tool to visualize **habitable zones (HZ)** around main-sequence stars (M, K, G, F, A types). This script shows how both **conservative** and **optimistic** HZ ranges vary across spectral types using a horizontal bar chart.
+A Python tool to visualize **habitable zones (HZ)** around main-sequence stars (M, K, G, F, A types). This script shows how both **conservative** and **optimistic** HZ ranges vary across spectral types using a horizontal bar chart.
 
 ---
 
@@ -82,7 +82,6 @@ You are free to use, modify, and distribute with attribution.
 
 **Sahar Dordaei Joghan**  
 May 2023  
-Created as an educational and visual tool to explore planetary habitability around different types of stars using astrophysical models.
 
 ---
 
